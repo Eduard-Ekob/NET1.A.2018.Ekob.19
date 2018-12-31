@@ -7,6 +7,7 @@
 https://github.com/AnzhelikaKravchuk?tab=repositories
 https://github.com/AnzhelikaKravchuk/2017-2018.MMF.BSU
 https://habrahabr.ru/company/it-grad/blog/341486/
+
 результирующим является XML-документ вида (можно использовать любую XML технологию без ограничений). XML-результат
 
 Для тех URL-адресов, которые не совпадают с данным паттерном, “залогировать” информацию, отметив указанные строки, как необработанные. Для реализации здесь помощь.
